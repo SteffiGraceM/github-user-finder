@@ -21,5 +21,5 @@ A simple app to search for GitHub users and view profile details including top r
 2. Click "Search"
 3. View the profile info and top repos
 
-## 🧠 Author
+## Author
 Created by Steffi
